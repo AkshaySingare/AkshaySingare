@@ -203,7 +203,7 @@ Ethical Hacking — WsCube Tech
 
 🌐 GitHub: https://github.com/AkshaySingare
 
-💻 Portfolio Source: https://github.com/AkshaySingare/Portfolio
+💻 Portfolio Source: https://portfolio-inky-eight-d38f5641zv.vercel.app/
 
 💬 Quote
 
